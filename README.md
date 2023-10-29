@@ -15,7 +15,7 @@ Currently, most of the repositories you can see are exam projects from the last 
 
 <table>
   <tr>
-    <td rowspan="3"><img src="https://i.ibb.co/xHHd3SM/merged2.gif" /></td>
+    <td rowspan="3"><img src="./img/amnesia.gif" /></td>
     <td>
       <img src="https://profile-counter.glitch.me/Meht-evaS/count.svg?"  />
     </td>
