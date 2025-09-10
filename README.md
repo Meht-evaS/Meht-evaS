@@ -17,7 +17,8 @@ Currently, most of the repositories you can see are exam projects from the last 
   <tr>
     <td rowspan="3"><img src="./img/amnesia.gif" /></td>
     <td>
-      <img src="https://profile-counter.glitch.me/Meht-evaS/count.svg?"  />
+      <img src="https://komarev.com/ghpvc/?username=Meht-evaS&color=brightgreen&style=flat&label=Profile+views" />
+      <img src="https://profile-counter.glitch.me/Meht-evaS/count.svg?" />
     </td>
   </tr>
   <tr>
